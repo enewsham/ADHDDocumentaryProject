@@ -12,11 +12,7 @@ This Unity project uses the Xbox 360 Kinect (Kinect v1) to detect body gestures 
 
 1. Install [Kinect SDK 1.8](https://www.microsoft.com/en-us/download/details.aspx?id=40278)
 2. Verify that the Kinect drivers are installed correctly.
-3. Download or clone this repo.
-4. Import the KinectWithMS-SDK Unity package.
-5. Add your video file to `Assets/Resources`.
-6. Assign it in the `VideoPlayer` component.
-7. Run.
+3. Placeholder Text
 
 ## Dependencies
 
