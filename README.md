@@ -1,21 +1,22 @@
-# Kinect ADHD Documentary Experience (Unity + Kinect v1)
+# ADHD Documentary Experience (Unity + Kinect v1)
 
-This Unity project uses the Xbox 360 Kinect (Kinect v1) to detect body gestures in real time. (Placeholder text for more info)
+This Unity project is meant to showcase a short documentary style simulation of what it is like to experience living with ADHD.
+
 
 ## Features
 
-- Kinect v1 (SDK 1.8) Skeleton Tracking
+
 - Gesture: Placeholder Text
 - Unity VideoPlayer integration
 
 ## Setup Instructions
 
-1. Install [Kinect SDK 1.8](https://www.microsoft.com/en-us/download/details.aspx?id=40278)
-2. Verify that the Kinect drivers are installed correctly.
-3. Placeholder Text
+1. 
 
 ## Dependencies
 
 - Unity Engine
-- Kinect for Windows SDK 1.8
-- KinectWithMS-SDK Unity Package
+- Xbox 360 version of the Kinect, with PC adapter
+- Kinect for Windows Runtime SDK 1.7
+- Kinect for Windows Toolkit 1.7
+- "Kinect Wrapper Package for Unity3D"; package to import to Unity
