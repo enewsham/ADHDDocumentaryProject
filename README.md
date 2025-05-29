@@ -4,9 +4,9 @@ This Unity project is meant to showcase a short documentary style simulation of 
 
 
 ## Features
-
-
-- Gesture: Placeholder Text
+- Placeholder Text
+- Placeholder Text
+- Placeholder Text
 - Unity VideoPlayer integration
 
 ## Setup Instructions
