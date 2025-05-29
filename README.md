@@ -17,6 +17,6 @@ This Unity project is meant to showcase a short documentary style simulation of 
 
 - Unity Engine
 - Xbox 360 version of the Kinect, with PC adapter
-- Kinect for Windows Runtime SDK 1.7
-- Kinect for Windows Toolkit 1.7
-- "Kinect Wrapper Package for Unity3D"; package to import to Unity
+- Kinect for Windows Runtime SDK 1.8
+- Kinect for Windows Toolkit 1.8
+- https://github.com/Rabie-Fathallah/Kinect-SDK
