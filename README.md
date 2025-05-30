@@ -15,7 +15,7 @@ This Unity project is meant to showcase a short documentary style simulation of 
 
 ## Dependencies
 
-- Unity Engine ver. 6
+- Unity Engine ver. 2023.2.0f1
 - Xbox 360 version of the Kinect (Kinect v1), with PC adapter
 - Kinect for Windows 1.8 SDK; https://www.microsoft.com/en-us/download/details.aspx?id=40278
 - Kinect for Windows Runtime 1.8; https://www.microsoft.com/en-us/download/details.aspx?id=40277
