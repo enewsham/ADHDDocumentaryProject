@@ -5,7 +5,6 @@ This Unity project is meant to showcase a short documentary-style simulation of 
 
 ## Features
 - Full-body tracking using an avatar, Kinect tracking the user, including some body movement
-- Video that wraps around the user, simulating VR
 - An automatic scoring system that tracks how well the user holds poses, giving a score at the end
 - Placeholder Text
 
