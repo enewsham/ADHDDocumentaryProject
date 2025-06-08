@@ -16,7 +16,7 @@ This Unity project is meant to showcase a short documentary-style simulation of 
 - [Kinect for Windows Runtime 1.8](https://www.microsoft.com/en-us/download/details.aspx?id=40277)
 - [Kinect for Windows Toolkit 1.8](https://www.microsoft.com/en-us/download/details.aspx?id=40276)
 - [Files necessary to integrate Unity and Kinect](https://github.com/Rabie-Fathallah/Kinect-SDK)
-- Visual Studio 2019 (dependencies needed from the download process)
+- Visual Studio 2019 (dependencies needed from the download)
 
 ## Credit
 
