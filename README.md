@@ -21,4 +21,9 @@ This Unity project is meant to showcase a short documentary-style simulation of 
 ## Credit
 
 - [Avatar used from Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/human-character-dummy-178395)
-- Placeholder
+
+Stock videos & music used:
+
+- [Music](https://pixabay.com/music/ambient-midnight-forest-184304/)
+- [Main Menu Video](https://www.pexels.com/video/pink-paint-dropping-on-the-water-7565455/)
+- 
