@@ -1,6 +1,6 @@
 # ADHD Documentary Experience (Unity + Kinect v1)
 
-This Unity project is meant to showcase a short documentary style simulation of what it is like to experience living with ADHD.
+This Unity project is meant to showcase a short documentary-style simulation of ADHD. This includes brief information on ADHD, as well as pieces of my own personal experiences with having ADHD.
 
 
 ## Features
