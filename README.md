@@ -1,8 +1,5 @@
 # ADHD Documentary Experience (Unity + Kinect v1)
 
-This Unity project is meant to showcase a short documentary-style simulation of ADHD. This includes brief information on ADHD, as well as pieces of my own personal experiences with having ADHD.
-
-
 ## Features
 - Full-body tracking using an avatar, Kinect tracking the user, including some body movement
 - An automatic scoring system that tracks how well the user holds poses, giving a score at the end
