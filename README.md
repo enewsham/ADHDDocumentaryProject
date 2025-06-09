@@ -29,3 +29,7 @@ I read parts of these for my audio recordings:
 
 - https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd
 - https://mind.se/en/facts-about-mental-health-and-wellbeing/adhd/
+
+Used this to find deleted downloads from the original PrimeSense website:
+
+- [Archive.org dump of OpenNI/PrimeSense](https://archive.org/details/OpenNI.orgWebsiteDumpBeforeShutdown)
