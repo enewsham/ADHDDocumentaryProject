@@ -31,4 +31,3 @@ Read parts of these for my audio recordings:
 
 - https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd
 - https://mind.se/en/facts-about-mental-health-and-wellbeing/adhd/
-- 
