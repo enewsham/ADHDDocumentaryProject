@@ -19,6 +19,7 @@ This Unity project is meant to showcase a short documentary-style simulation of 
 
 ## Credit
 
+Avatar used in project:
 - [Avatar used from Unity Asset Store](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/human-character-dummy-178395)
 
 Stock videos & music used:
